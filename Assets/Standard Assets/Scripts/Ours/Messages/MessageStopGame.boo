@@ -1,0 +1,2 @@
+class MessageStopGame(Message):
+	pass

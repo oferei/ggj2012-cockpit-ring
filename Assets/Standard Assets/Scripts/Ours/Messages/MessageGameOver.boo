@@ -1,0 +1,2 @@
+class MessageGameOver(Message):
+	pass
